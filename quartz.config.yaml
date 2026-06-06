@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Red Pill Wiki
-  pageTitleSuffix: " | redpill.wiki"
+  pageTitle: Knowledge Wiki
+  pageTitleSuffix: ""
   enableSPA: false
   enablePopovers: false
   analytics:
     provider: plausible
   locale: vi-VN
-  baseUrl: redpill.wiki
+  baseUrl: duynguyendevit-ux.github.io/knowledge-wiki
   contentDir: .
   ignorePatterns:
     - private
