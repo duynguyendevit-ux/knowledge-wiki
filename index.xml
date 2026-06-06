@@ -10,19 +10,25 @@
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/fireworks/</link>
     <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/fireworks/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 06 Jun 2026 16:02:59 GMT</pubDate>
+    <pubDate>Sat, 06 Jun 2026 16:21:28 GMT</pubDate>
   </item><item>
     <title>tech</title>
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/tech/</link>
     <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/tech/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 06 Jun 2026 16:02:59 GMT</pubDate>
+    <pubDate>Sat, 06 Jun 2026 16:21:28 GMT</pubDate>
   </item><item>
     <title>Danh sách thẻ</title>
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/tags/</link>
     <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 06 Jun 2026 16:02:59 GMT</pubDate>
+    <pubDate>Sat, 06 Jun 2026 16:21:28 GMT</pubDate>
+  </item><item>
+    <title></title>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/glossary</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/glossary</guid>
+    <description><![CDATA[  title: Unity Scripting Glossary tags: [unity, csharp, glossary, reference] date: 2026-06-06 Unity Scripting Glossary Quick reference guide cho các terms và concepts trong Unity C# scripting. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 16:21:08 GMT</pubDate>
   </item><item>
     <title></title>
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/09-singletons</link>
@@ -58,12 +64,6 @@
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/06-interfaces</link>
     <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/06-interfaces</guid>
     <description><![CDATA[  title: Interfaces in Unity tags: [unity, csharp, interfaces, oop, polymorphism] date: 2026-06-06 Interfaces in Unity What are Interfaces? Interfaces định nghĩa contract - một set of methods mà class phải implement. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:57:30 GMT</pubDate>
-  </item><item>
-    <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/07-scriptable-objects</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/07-scriptable-objects</guid>
-    <description><![CDATA[  title: Scriptable Objects in Unity tags: [unity, csharp, scriptable-objects, data-driven] date: 2026-06-06 Scriptable Objects in Unity What are Scriptable Objects? ScriptableObjects là data containers tồn tại như assets trong project, không phải components trên GameObjects. ]]></description>
     <pubDate>Sat, 06 Jun 2026 15:57:30 GMT</pubDate>
   </item>
     </channel>
