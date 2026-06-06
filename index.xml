@@ -10,55 +10,61 @@
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/fireworks/</link>
     <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/fireworks/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:50:27 GMT</pubDate>
+    <pubDate>Sat, 06 Jun 2026 15:58:56 GMT</pubDate>
   </item><item>
     <title>tech</title>
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/tech/</link>
     <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/tech/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:50:27 GMT</pubDate>
-  </item><item>
-    <title>unity</title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:50:27 GMT</pubDate>
+    <pubDate>Sat, 06 Jun 2026 15:58:56 GMT</pubDate>
   </item><item>
     <title>Danh sách thẻ</title>
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/tags/</link>
     <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:50:27 GMT</pubDate>
+    <pubDate>Sat, 06 Jun 2026 15:58:56 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/unity-advanced-scripting-guide</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/unity-advanced-scripting-guide</guid>
-    <description><![CDATA[  title: Unity Advanced Scripting Guide tags: [unity, csharp, game-dev, programming, design-patterns] date: 2026-06-06 Unity Advanced Scripting Guide Comprehensive reference for advanced C# design patterns and scripting techniques in Unity. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:50:02 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/09-singletons</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/09-singletons</guid>
+    <description><![CDATA[  title: Singletons in Unity tags: [unity, csharp, singleton, design-patterns, global-access] date: 2026-06-06 Singletons in Unity What are Singletons? Singleton là globally accessible instance, chỉ tồn tại duy nhất một instance trong scene. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 15:58:27 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/</guid>
-    <description><![CDATA[  title: Knowledge Wiki draft: false date: 2026-06-06 🧠 Knowledge Wiki Chào mừng đến với knowledge base cá nhân của mình. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 13:22:01 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/10-events-delegates</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/10-events-delegates</guid>
+    <description><![CDATA[  title: Events &amp; Delegates in Unity tags: [unity, csharp, events, delegates, observer-pattern] date: 2026-06-06 Events &amp; Delegates in Unity What are Events &amp; Delegates? Delegates là function containers. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 15:58:27 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/welcome</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/welcome</guid>
-    <description><![CDATA[  title: Chào mừng đến với Blog của mình draft: false tags: welcome intro date: 2026-06-06 Chào mừng! 👋 Đây là blog cá nhân của mình, được xây dựng bằng Quartz - một static site generator tuyệt vời. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 13:21:52 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/</guid>
+    <description><![CDATA[  title: Unity Advanced Scripting - Index tags: [unity, csharp, design-patterns, index] date: 2026-06-06 Unity Advanced Scripting Guide Complete reference cho advanced C# design patterns và scripting techniques trong Unity. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 15:58:27 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/tech/tech-stack</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/tech/tech-stack</guid>
-    <description><![CDATA[  title: Tech Stack mình đang dùng draft: false tags: tech programming java react date: 2026-06-06 Tech Stack của mình Backend Mình chuyên về Backend Development, chủ yếu làm việc với: Java Ecosystem Java 17 - version hiện tại Spring Boot - framework chính Spring Microservices - kiến trúc phân tán Sp... ]]></description>
-    <pubDate>Sat, 06 Jun 2026 13:21:52 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/04-async-await</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/04-async-await</guid>
+    <description><![CDATA[  title: Async / Await in Unity tags: [unity, csharp, async, coroutines, threading] date: 2026-06-06 Async / Await in Unity What is Async? Async/Await cho phép execute code không đồng bộ, không block main thread. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 15:57:30 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/fireworks/fireworks-tube-rack-sizing</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/fireworks/fireworks-tube-rack-sizing</guid>
-    <description><![CDATA[  title: “Fireworks Mortar Tubes &amp; Racks: Sizing Guide” draft: false tags: fireworks 3d-modeling technical-specs reference date: 2026-06-06 Fireworks Mortar Tubes &amp; Racks: Sizing Guide Complete reference cho mortar tube và rack dimensions để 3D modeling chính xác. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 13:21:52 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/05-state-machines</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/05-state-machines</guid>
+    <description><![CDATA[  title: State Machines in Unity tags: [unity, csharp, state-machine, ai, design-patterns] date: 2026-06-06 State Machines in Unity What are State Machines? State Machine quản lý behavior dựa trên current state của object. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 15:57:30 GMT</pubDate>
+  </item><item>
+    <title></title>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/06-interfaces</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/06-interfaces</guid>
+    <description><![CDATA[  title: Interfaces in Unity tags: [unity, csharp, interfaces, oop, polymorphism] date: 2026-06-06 Interfaces in Unity What are Interfaces? Interfaces định nghĩa contract - một set of methods mà class phải implement. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 15:57:30 GMT</pubDate>
+  </item><item>
+    <title></title>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/07-scriptable-objects</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/07-scriptable-objects</guid>
+    <description><![CDATA[  title: Scriptable Objects in Unity tags: [unity, csharp, scriptable-objects, data-driven] date: 2026-06-06 Scriptable Objects in Unity What are Scriptable Objects? ScriptableObjects là data containers tồn tại như assets trong project, không phải components trên GameObjects. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 15:57:30 GMT</pubDate>
   </item>
     </channel>
   </rss>
