@@ -10,61 +10,61 @@
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/fireworks/</link>
     <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/fireworks/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 06 Jun 2026 16:21:28 GMT</pubDate>
+    <pubDate>Sat, 06 Jun 2026 16:30:17 GMT</pubDate>
   </item><item>
     <title>tech</title>
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/tech/</link>
     <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/tech/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 06 Jun 2026 16:21:28 GMT</pubDate>
+    <pubDate>Sat, 06 Jun 2026 16:30:17 GMT</pubDate>
   </item><item>
     <title>Danh sách thẻ</title>
     <link>https://duynguyendevit-ux.github.io/knowledge-wiki/tags/</link>
     <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 06 Jun 2026 16:21:28 GMT</pubDate>
+    <pubDate>Sat, 06 Jun 2026 16:30:17 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/glossary</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/glossary</guid>
-    <description><![CDATA[  title: Unity Scripting Glossary tags: [unity, csharp, glossary, reference] date: 2026-06-06 Unity Scripting Glossary Quick reference guide cho các terms và concepts trong Unity C# scripting. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 16:21:08 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/</guid>
+    <description><![CDATA[  title: Unity Fundamentals - Index tags: [unity, fundamentals, index] date: 2026-06-06 Unity Fundamentals - Knowledge Base Comprehensive guide to Unity fundamental concepts from GameDev Beginner glossary. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 16:29:16 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/09-singletons</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/09-singletons</guid>
-    <description><![CDATA[  title: Singletons in Unity tags: [unity, csharp, singleton, design-patterns, global-access] date: 2026-06-06 Singletons in Unity What are Singletons? Singleton là globally accessible instance, chỉ tồn tại duy nhất một instance trong scene. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:58:27 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/late-start</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/late-start</guid>
+    <description><![CDATA[  title: Unity Late Start tags: [unity, fundamentals, lifecycle, script-execution-order, delay] date: 2026-06-06 Unity Late Start Overview Unity không có built-in Late Start method. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 16:29:16 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/10-events-delegates</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/10-events-delegates</guid>
-    <description><![CDATA[  title: Events &amp; Delegates in Unity tags: [unity, csharp, events, delegates, observer-pattern] date: 2026-06-06 Events &amp; Delegates in Unity What are Events &amp; Delegates? Delegates là function containers. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:58:27 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/action</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/action</guid>
+    <description><![CDATA[  title: Unity Action tags: [unity, fundamentals, csharp, delegates, events, actions] date: 2026-06-06 Unity Action Overview Action trong Unity là một ready-made delegate có thể có một hoặc nhiều parameters và returns void. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 16:28:50 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/</guid>
-    <description><![CDATA[  title: Unity Advanced Scripting - Index tags: [unity, csharp, design-patterns, index] date: 2026-06-06 Unity Advanced Scripting Guide Complete reference cho advanced C# design patterns và scripting techniques trong Unity. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:58:27 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/for-loop</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/for-loop</guid>
+    <description><![CDATA[  title: Unity For Loop tags: [unity, fundamentals, csharp, loops, iteration] date: 2026-06-06 Unity For Loop Overview For Loop là iteration statement cho phép execute cùng một block of code nhiều lần. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 16:28:50 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/04-async-await</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/04-async-await</guid>
-    <description><![CDATA[  title: Async / Await in Unity tags: [unity, csharp, async, coroutines, threading] date: 2026-06-06 Async / Await in Unity What is Async? Async/Await cho phép execute code không đồng bộ, không block main thread. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:57:30 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/global-variables</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/global-variables</guid>
+    <description><![CDATA[  title: Global Variables in Unity tags: [unity, fundamentals, csharp, static, singleton, scriptable-objects] date: 2026-06-06 Global Variables in Unity Overview Global variables trong Unity là values hoặc references có thể được access từ bất kỳ script nào, anywhere trong game, mà không cần direct re... ]]></description>
+    <pubDate>Sat, 06 Jun 2026 16:28:50 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/05-state-machines</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/05-state-machines</guid>
-    <description><![CDATA[  title: State Machines in Unity tags: [unity, csharp, state-machine, ai, design-patterns] date: 2026-06-06 State Machines in Unity What are State Machines? State Machine quản lý behavior dựa trên current state của object. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:57:30 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/move-towards</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/move-towards</guid>
+    <description><![CDATA[  title: Unity Move Towards tags: [unity, fundamentals, move-towards, speed, lerp] date: 2026-06-06 Unity Move Towards Overview Move Towards là một function cho phép thay đổi giá trị theo thời gian về phía target, được control bằng maximum rate of change (max delta). ]]></description>
+    <pubDate>Sat, 06 Jun 2026 16:28:50 GMT</pubDate>
   </item><item>
     <title></title>
-    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/06-interfaces</link>
-    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/06-interfaces</guid>
-    <description><![CDATA[  title: Interfaces in Unity tags: [unity, csharp, interfaces, oop, polymorphism] date: 2026-06-06 Interfaces in Unity What are Interfaces? Interfaces định nghĩa contract - một set of methods mà class phải implement. ]]></description>
-    <pubDate>Sat, 06 Jun 2026 15:57:30 GMT</pubDate>
+    <link>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/namespace</link>
+    <guid>https://duynguyendevit-ux.github.io/knowledge-wiki/unity/fundamentals/namespace</guid>
+    <description><![CDATA[  title: Unity Namespace tags: [unity, fundamentals, csharp, namespace, organization] date: 2026-06-06 Unity Namespace Overview Namespaces trong Unity là collections of classes được dùng để organize code thành separate directories và cho phép compiler phân biệt classes có cùng tên. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 16:28:50 GMT</pubDate>
   </item>
     </channel>
   </rss>
