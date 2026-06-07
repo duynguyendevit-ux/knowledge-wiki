@@ -168,4 +168,4 @@ Primary sources include:
 
 ---
 
-**Related:** [[fireworks-tube-rack-sizing]] | [[game-design]] | [[3d-modeling-reference]]
+**Related:** [[index|Fireworks Index]] | [[mortar-tube-dimensions-vi|Bản tiếng Việt]]
