@@ -5,40 +5,45 @@ date: 2026-06-07
 ---
 
 # Fireworks Rack Sizes & Tube Specifications - Deep Reference
+# Kích Thước Giá Phóng & Thông Số Ống - Tài Liệu Chi Tiết
 
 Comprehensive technical specifications for mortar tube dimensions and rack configurations based on manufacturer catalogs and NFPA standards.
 
+Thông số kỹ thuật toàn diện về kích thước ống phóng và cấu hình giá dựa trên catalog nhà sản xuất và tiêu chuẩn NFPA.
+
 ## Consumer Mortar Tubes (DR11 Standard)
+## Ống Phóng Dân Dụng (Tiêu Chuẩn DR11)
 
-### DR11 Specifications
-**Standard consumer tube for 1.75" shells**
+### DR11 Specifications / Thông Số DR11
+**Standard consumer tube for 1.75" shells**  
+**Ống tiêu chuẩn dân dụng cho đầu đạn 1.75"**
 
-- **Inner Diameter (ID):** 1.91" (4.85 cm)
-- **Outer Diameter (OD):** 2.4" (6.1 cm)  
-- **Wall Thickness:** ~0.245" (0.62 cm)
-- **Common Lengths:** 12" (30.5 cm) or 15" (38.1 cm)
-- **Material:** HDPE (High-Density Polyethylene)
-- **Pressure Rating:** DR11 = 200 PSI class
-- **Color:** Black (most common)
-- **End:** Plugged bottom
+- **Inner Diameter (ID) / Đường kính trong:** 1.91" (4.85 cm)
+- **Outer Diameter (OD) / Đường kính ngoài:** 2.4" (6.1 cm)  
+- **Wall Thickness / Độ dày thành:** ~0.245" (0.62 cm)
+- **Common Lengths / Chiều dài phổ biến:** 12" (30.5 cm) hoặc 15" (38.1 cm)
+- **Material / Vật liệu:** HDPE (High-Density Polyethylene / Polyethylene mật độ cao)
+- **Pressure Rating / Áp suất:** DR11 = 200 PSI class
+- **Color / Màu:** Black (most common / phổ biến nhất)
+- **End / Đáy:** Plugged bottom (có nút đáy)
 
-### Consumer Rack Configurations
+### Consumer Rack Configurations / Cấu Hình Giá Dân Dụng
 
-#### 6-Shot Rack
-- **Dimensions:** 18" L × 13" W × 5" H (45.7 × 33 × 12.7 cm)
-- **Weight:** ~16 lbs (7.3 kg) with tubes
-- **Tubes:** 6× DR11 12" tubes
-- **Layout:** Single row, straight
-- **Tube spacing:** ~3" (7.6 cm) center-to-center
-- **Use:** Small backyard displays, testing
+#### 6-Shot Rack / Giá 6 Phát
+- **Dimensions / Kích thước:** 18" L × 13" W × 5" H (45.7 × 33 × 12.7 cm)
+- **Weight / Trọng lượng:** ~16 lbs (7.3 kg) with tubes / kèm ống
+- **Tubes / Ống:** 6× DR11 12" tubes
+- **Layout / Bố trí:** Single row, straight / Một hàng thẳng
+- **Tube spacing / Khoảng cách ống:** ~3" (7.6 cm) center-to-center / tâm đến tâm
+- **Use / Dùng cho:** Small backyard displays, testing / Trình diễn sân nhỏ, thử nghiệm
 
-#### 12-Shot Rack (Straight)
-- **Dimensions:** ~36" L × 13" W × 5" H (91.4 × 33 × 12.7 cm)
-- **Weight:** ~32 lbs (14.5 kg) with tubes
-- **Tubes:** 12× DR11 12" tubes
-- **Layout:** Single row, straight
-- **Tube spacing:** ~3" (7.6 cm) center-to-center
-- **Use:** Standard consumer displays
+#### 12-Shot Rack (Straight) / Giá 12 Phát (Thẳng)
+- **Dimensions / Kích thước:** ~36" L × 13" W × 5" H (91.4 × 33 × 12.7 cm)
+- **Weight / Trọng lượng:** ~32 lbs (14.5 kg) with tubes / kèm ống
+- **Tubes / Ống:** 12× DR11 12" tubes
+- **Layout / Bố trí:** Single row, straight / Một hàng thẳng
+- **Tube spacing / Khoảng cách ống:** ~3" (7.6 cm) center-to-center / tâm đến tâm
+- **Use / Dùng cho:** Standard consumer displays / Trình diễn dân dụng tiêu chuẩn
 
 #### 10-Shot Fan Rack
 - **Tubes:** 10× DR11 12" tubes
@@ -57,25 +62,25 @@ Comprehensive technical specifications for mortar tube dimensions and rack confi
 - **Layout:** Multiple row configuration
 - **Use:** Larger consumer shows
 
-#### 24-Shot V-Rack
-- **Layout:** 2 rows × 12 tubes
-- **Pattern:** V-shape (two rows angled outward)
-- **Outer angle:** 15° off center (documented)
-- **Footprint:** ~36" L × 26" W (91.4 × 66 cm)
-- **Use:** Wide fan pattern
+#### 24-Shot V-Rack / Giá 24 Phát Chữ V
+- **Layout / Bố trí:** 2 rows × 12 tubes / 2 hàng × 12 ống
+- **Pattern / Hình dạng:** V-shape (two rows angled outward) / Chữ V (hai hàng nghiêng ra ngoài)
+- **Outer angle / Góc nghiêng:** 15° off center (documented) / 15° lệch tâm (đã ghi chép)
+- **Footprint / Diện tích:** ~36" L × 26" W (91.4 × 66 cm)
+- **Use / Dùng cho:** Wide fan pattern / Mẫu quạt rộng
 
-#### 24-Shot W-Rack
-- **Layout:** 3 rows (center + 2 outer)
-- **Pattern:** W-shape (center straight, sides angled)
-- **Outer angle:** 15° off center
-- **Footprint:** ~36" L × 36" W (91.4 × 91.4 cm)
-- **Use:** Maximum spread pattern
+#### 24-Shot W-Rack / Giá 24 Phát Chữ W
+- **Layout / Bố trí:** 3 rows (center + 2 outer) / 3 hàng (giữa + 2 bên)
+- **Pattern / Hình dạng:** W-shape (center straight, sides angled) / Chữ W (giữa thẳng, bên nghiêng)
+- **Outer angle / Góc nghiêng:** 15° off center / 15° lệch tâm
+- **Footprint / Diện tích:** ~36" L × 36" W (91.4 × 91.4 cm)
+- **Use / Dùng cho:** Maximum spread pattern / Mẫu trải rộng tối đa
 
-#### 36-Shot W-Rack
-- **Layout:** 3 rows × 12 tubes
-- **Pattern:** W-shape
-- **Footprint:** ~36" L × 45" W (91.4 × 114 cm)
-- **Use:** Large consumer finale
+#### 36-Shot W-Rack / Giá 36 Phát Chữ W
+- **Layout / Bố trí:** 3 rows × 12 tubes / 3 hàng × 12 ống
+- **Pattern / Hình dạng:** W-shape / Chữ W
+- **Footprint / Diện tích:** ~36" L × 45" W (91.4 × 114 cm)
+- **Use / Dùng cho:** Large consumer finale / Finale lớn dân dụng
 
 ### Modular System (ARC)
 
@@ -87,78 +92,71 @@ Comprehensive technical specifications for mortar tube dimensions and rack confi
 - **Feature:** Configurable, stackable
 - **Use:** Custom rack building
 
-## Professional Display Mortars
+## Professional Display Mortars / Ống Phóng Trình Diễn Chuyên Nghiệp
 
-### 2-Inch Display (DR17)
-- **Inner Diameter:** 2.0" (5.1 cm)
-- **Outer Diameter:** 2.4" (6.1 cm)
-- **Length:** 12"-15" (30.5-38.1 cm)
-- **Material:** HDPE DR17
-- **Use:** Small professional shells
+### 3-Inch Display (DR17) / Trình Diễn 3 Inch (DR17)
+- **Inner Diameter / Đường kính trong:** 3.0" (7.6 cm)
+- **Outer Diameter / Đường kính ngoài:** 3.5" (8.9 cm)
+- **Length / Chiều dài:** 18"-20" (45.7-50.8 cm)
+- **Wall thickness / Độ dày thành:** ~0.25" (0.64 cm)
+- **Material / Vật liệu:** HDPE DR17
+- **Rack limit / Giới hạn giá:** Maximum 15 tubes per unit (NFPA) / Tối đa 15 ống mỗi đơn vị
 
-### 3-Inch Display (DR17)
-- **Inner Diameter:** 3.0" (7.6 cm)
-- **Outer Diameter:** 3.5" (8.9 cm)
-- **Length:** 18"-20" (45.7-50.8 cm)
-- **Wall thickness:** ~0.25" (0.64 cm)
-- **Material:** HDPE DR17
-- **Rack limit:** Maximum 15 tubes per unit (NFPA)
+### 4-Inch Display / Trình Diễn 4 Inch
+- **Inner Diameter / Đường kính trong:** 4.0" (10.2 cm)
+- **Outer Diameter / Đường kính ngoài:** 4.5" (11.4 cm)
+- **Length / Chiều dài:** 24" (61 cm)
+- **Material / Vật liệu:** HDPE DR17
+- **Rack limit / Giới hạn giá:** Maximum 12 tubes per unit (NFPA) / Tối đa 12 ống mỗi đơn vị
 
-### 4-Inch Display
-- **Inner Diameter:** 4.0" (10.2 cm)
-- **Outer Diameter:** 4.5" (11.4 cm)
-- **Length:** 24" (61 cm)
-- **Material:** HDPE DR17
-- **Rack limit:** Maximum 12 tubes per unit (NFPA)
+### 5-Inch Display / Trình Diễn 5 Inch
+- **Inner Diameter / Đường kính trong:** 5.0" (12.7 cm)
+- **Outer Diameter / Đường kính ngoài:** 5.5" (14.0 cm)
+- **Length / Chiều dài:** 28" (71.1 cm)
+- **Material / Vật liệu:** HDPE DR17
+- **Rack limit / Giới hạn giá:** Maximum 10 tubes per unit (NFPA) / Tối đa 10 ống mỗi đơn vị
 
-### 5-Inch Display
-- **Inner Diameter:** 5.0" (12.7 cm)
-- **Outer Diameter:** 5.5" (14.0 cm)
-- **Length:** 28" (71.1 cm)
-- **Material:** HDPE DR17
-- **Rack limit:** Maximum 10 tubes per unit (NFPA)
+### 6-Inch Display / Trình Diễn 6 Inch
+- **Inner Diameter / Đường kính trong:** 6.0" (15.2 cm)
+- **Outer Diameter / Đường kính ngoài:** 6.5" (16.5 cm)
+- **Length / Chiều dài:** 33" (83.8 cm)
+- **Material / Vật liệu:** HDPE DR17
+- **Rack limit / Giới hạn giá:** Maximum 10 tubes per unit (NFPA) / Tối đa 10 ống mỗi đơn vị
 
-### 6-Inch Display
-- **Inner Diameter:** 6.0" (15.2 cm)
-- **Outer Diameter:** 6.5" (16.5 cm)
-- **Length:** 33" (83.8 cm)
-- **Material:** HDPE DR17
-- **Rack limit:** Maximum 10 tubes per unit (NFPA)
+## NFPA Rack Construction Standards / Tiêu Chuẩn Xây Dựng Giá NFPA
 
-## NFPA Rack Construction Standards
+### Tube Separation Requirements / Yêu Cầu Khoảng Cách Ống
 
-### Tube Separation Requirements
+**Buried/Ground mortars / Ống chôn đất:**
+- Separation = **mortar diameter minimum** / Khoảng cách = **tối thiểu bằng đường kính ống**
+- Example / Ví dụ: 3" mortars need 3" between tubes / Ống 3" cần 3" giữa các ống
 
-**Buried/Ground mortars:**
-- Separation = **mortar diameter minimum**
-- Example: 3" mortars need 3" between tubes
+**Racks/Troughs/Drums / Giá/Máng/Thùng:**
+- Separation = **2 inches OR 1/2 mortar diameter** (whichever is greater) / Khoảng cách = **2 inch HOẶC 1/2 đường kính ống** (lấy giá trị lớn hơn)
+- Example / Ví dụ: 4" mortar = 2" separation minimum / Ống 4" = tối thiểu 2" khoảng cách
 
-**Racks/Troughs/Drums:**
-- Separation = **2 inches OR 1/2 mortar diameter** (whichever is greater)
-- Example: 4" mortar = 2" separation minimum
+### Rack Physical Construction / Cấu Trúc Vật Lý Giá
 
-### Rack Physical Construction
+**For 3-inch and smaller / Cho 3 inch trở xuống:**
+- Tube separators / Tấm ngăn ống: Nominally **2" thick × 4" wide** blocks / Khối **2" dày × 4" rộng**
+- Side braces required / Yêu cầu giằng bên
+- Maximum 15 tubes per rack unit / Tối đa 15 ống mỗi đơn vị giá
 
-**For 3-inch and smaller:**
-- Tube separators: Nominally **2" thick × 4" wide** blocks
-- Side braces required
-- Maximum 15 tubes per rack unit
+**For 4-inch / Cho 4 inch:**
+- Maximum 12 tubes per rack unit / Tối đa 12 ống mỗi đơn vị giá
+- Heavier bracing required / Yêu cầu giằng nặng hơn
 
-**For 4-inch:**
-- Maximum 12 tubes per rack unit
-- Heavier bracing required
+**For 5-6 inch / Cho 5-6 inch:**
+- Maximum 10 tubes per rack unit / Tối đa 10 ống mỗi đơn vị giá
+- Reinforced construction / Cấu trúc gia cường
 
-**For 5-6 inch:**
-- Maximum 10 tubes per rack unit
-- Reinforced construction
+**Above 6-inch / Trên 6 inch:**
+- No chain-fused racks allowed / Không cho phép giá cầu chì dây
+- Individual tube mounting or specialized racks only / Chỉ lắp ống đơn hoặc giá chuyên dụng
 
-**Above 6-inch:**
-- No chain-fused racks allowed
-- Individual tube mounting or specialized racks only
-
-### Rack-to-Rack Spacing
-- Minimum **3-inch separation** between all mortars in adjacent racks within cluster
-- Applies to rack edges, not individual tubes
+### Rack-to-Rack Spacing / Khoảng Cách Giữa Các Giá
+- Minimum **3-inch separation** between all mortars in adjacent racks within cluster / Tối thiểu **3 inch** giữa tất cả ống trong các giá kề nhau trong cụm
+- Applies to rack edges, not individual tubes / Áp dụng cho mép giá, không phải ống riêng lẻ
 
 ## Material Specifications
 
@@ -277,18 +275,18 @@ Center-to-center: 6.5" (16.5 cm)
 - Display rack albedo: 2K-4K for hero shots
 - Normal maps: Focus on tube openings and wood grain
 
-## Quick Reference Table
+## Quick Reference Table / Bảng Tham Khảo Nhanh
 
-| Rack Type | Shot Count | Approx Size (cm) | Tube Type | Weight (kg) |
+| Rack Type<br/>Loại Giá | Shot Count<br/>Số Phát | Approx Size (cm)<br/>Kích Thước Xấp Xỉ | Tube Type<br/>Loại Ống | Weight (kg)<br/>Trọng Lượng |
 |-----------|------------|------------------|-----------|-------------|
-| Small consumer | 6 | 46 × 33 × 13 | DR11 12" | 7.3 |
-| Standard consumer | 12 | 91 × 33 × 13 | DR11 12" | 14.5 |
-| Fan consumer | 24-V | 91 × 66 × 13 | DR11 12" | 29 |
-| Wide fan consumer | 24-W | 91 × 91 × 13 | DR11 12" | 29 |
-| Finale consumer | 36-W | 91 × 114 × 13 | DR11 12" | 43 |
-| Pro 3" bar | 8 | 112 × 20 × 60 | 3" DR17 | 30-35 |
-| Pro 4" bar | 6 | 99 × 25 × 70 | 4" DR17 | 35-40 |
-| Pro 5" crate | 6-10 | Variable | 5" DR17 | 40-60 |
+| Small consumer<br/>Dân dụng nhỏ | 6 | 46 × 33 × 13 | DR11 12" | 7.3 |
+| Standard consumer<br/>Dân dụng chuẩn | 12 | 91 × 33 × 13 | DR11 12" | 14.5 |
+| Fan consumer<br/>Dân dụng quạt | 24-V | 91 × 66 × 13 | DR11 12" | 29 |
+| Wide fan consumer<br/>Dân dụng quạt rộng | 24-W | 91 × 91 × 13 | DR11 12" | 29 |
+| Finale consumer<br/>Dân dụng finale | 36-W | 91 × 114 × 13 | DR11 12" | 43 |
+| Pro 3" bar<br/>Pro thanh 3" | 8 | 112 × 20 × 60 | 3" DR17 | 30-35 |
+| Pro 4" bar<br/>Pro thanh 4" | 6 | 99 × 25 × 70 | 4" DR17 | 35-40 |
+| Pro 5" crate<br/>Pro thùng 5" | 6-10 | Variable<br/>Thay đổi | 5" DR17 | 40-60 |
 
 ---
 
