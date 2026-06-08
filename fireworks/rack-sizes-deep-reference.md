@@ -102,25 +102,25 @@ Thông số kỹ thuật toàn diện về kích thước ống phóng và cấu
 - **Material / Vật liệu:** HDPE DR17
 - **Rack limit / Giới hạn giá:** Maximum 15 tubes per unit (NFPA) / Tối đa 15 ống mỗi đơn vị
 
-### 4-Inch Display / Trình Diễn 4 Inch
+### 4-Inch Display (DR21) / Trình Diễn 4 Inch (DR21)
 - **Inner Diameter / Đường kính trong:** 4.0" (10.2 cm)
 - **Outer Diameter / Đường kính ngoài:** 4.5" (11.4 cm)
 - **Length / Chiều dài:** 24" (61 cm)
-- **Material / Vật liệu:** HDPE DR17
+- **Material / Vật liệu:** HDPE DR21
 - **Rack limit / Giới hạn giá:** Maximum 12 tubes per unit (NFPA) / Tối đa 12 ống mỗi đơn vị
 
-### 5-Inch Display / Trình Diễn 5 Inch
+### 5-Inch Display (DR21) / Trình Diễn 5 Inch (DR21)
 - **Inner Diameter / Đường kính trong:** 5.0" (12.7 cm)
 - **Outer Diameter / Đường kính ngoài:** 5.5" (14.0 cm)
 - **Length / Chiều dài:** 28" (71.1 cm)
-- **Material / Vật liệu:** HDPE DR17
+- **Material / Vật liệu:** HDPE DR21
 - **Rack limit / Giới hạn giá:** Maximum 10 tubes per unit (NFPA) / Tối đa 10 ống mỗi đơn vị
 
-### 6-Inch Display / Trình Diễn 6 Inch
+### 6-Inch Display (DR21) / Trình Diễn 6 Inch (DR21)
 - **Inner Diameter / Đường kính trong:** 6.0" (15.2 cm)
 - **Outer Diameter / Đường kính ngoài:** 6.5" (16.5 cm)
 - **Length / Chiều dài:** 33" (83.8 cm)
-- **Material / Vật liệu:** HDPE DR17
+- **Material / Vật liệu:** HDPE DR21
 - **Rack limit / Giới hạn giá:** Maximum 10 tubes per unit (NFPA) / Tối đa 10 ống mỗi đơn vị
 
 ## NFPA Rack Construction Standards / Tiêu Chuẩn Xây Dựng Giá NFPA
@@ -166,12 +166,21 @@ Thông số kỹ thuật toàn diện về kích thước ống phóng và cấu
 - Wall thickness = OD ÷ 11
 - Example: 2.4" OD ÷ 11 = 0.218" wall (actual ~0.245")
 - Standard consumer grade
+- Used for: 1.91" consumer tubes
 
 **DR17 (125 PSI class):**
 - Wall thickness = OD ÷ 17  
 - Thinner walls than DR11
 - Professional display grade
 - Example: 3.5" OD ÷ 17 = 0.206" wall
+- Used for: 3" display tubes
+
+**DR21 (100 PSI class):**
+- Wall thickness = OD ÷ 21
+- Thinner walls than DR17
+- Professional large-caliber display grade
+- Example: 4.5" OD ÷ 21 = 0.214" wall
+- Used for: 4", 5", 6" display tubes
 
 **Color coding:**
 - Black: Most common consumer
@@ -285,11 +294,15 @@ Center-to-center: 6.5" (16.5 cm)
 | Wide fan consumer<br/>Dân dụng quạt rộng | 24-W | 91 × 91 × 13 | DR11 12" | 29 |
 | Finale consumer<br/>Dân dụng finale | 36-W | 91 × 114 × 13 | DR11 12" | 43 |
 | Pro 3" bar<br/>Pro thanh 3" | 8 | 112 × 20 × 60 | 3" DR17 | 30-35 |
-| Pro 4" bar<br/>Pro thanh 4" | 6 | 99 × 25 × 70 | 4" DR17 | 35-40 |
-| Pro 5" crate<br/>Pro thùng 5" | 6-10 | Variable<br/>Thay đổi | 5" DR17 | 40-60 |
+| Pro 4" bar<br/>Pro thanh 4" | 6 | 99 × 25 × 70 | 4" DR21 | 35-40 |
+| Pro 5" crate<br/>Pro thùng 5" | 6-10 | Variable<br/>Thay đổi | 5" DR21 | 40-60 |
 
 ---
 
 **Related:** [[index|Fireworks Index]] | [[mortar-tube-dimensions|General Dimensions]] | [[effects-types|Effects Types]]
 
-**Sources:** Mortar Supply, USA-Fireworks, PyroBoom, PyroService, NFPA 1123, California Fire Code §1002
+**Sources:** 
+- **Verified manufacturers:** PyroBoom, American Wholesale Fireworks, Pyro Supply, Pyro Direct, Pro Pyro Racks, Great Lakes Mortar Racks
+- **Standards:** NFPA 1123, California Fire Code §1002
+- **DR Ratings confirmed:** DR11 (consumer 1.91"), DR17 (3" display), DR21 (4", 5", 6" display)
+- **Last verified:** June 2026
