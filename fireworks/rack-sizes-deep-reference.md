@@ -18,10 +18,10 @@ Thông số kỹ thuật toàn diện về kích thước ống phóng và cấu
 **Standard consumer tube for 1.75" shells**  
 **Ống tiêu chuẩn dân dụng cho đầu đạn 1.75"**
 
-- **Inner Diameter (ID) / Đường kính trong:** 1.91" (4.85 cm)
-- **Outer Diameter (OD) / Đường kính ngoài:** 2.4" (6.1 cm)  
-- **Wall Thickness / Độ dày thành:** ~0.245" (0.62 cm)
-- **Common Lengths / Chiều dài phổ biến:** 12" (30.5 cm) hoặc 15" (38.1 cm)
+- **Inner Diameter (ID) / Đường kính trong:** **1.91" (4.85 cm)**
+- **Outer Diameter (OD) / Đường kính ngoài:** **2.4" (6.1 cm)**  
+- **Wall Thickness / Độ dày thành:** **~0.245" (0.62 cm)**
+- **Common Lengths / Chiều dài phổ biến:** **12" (30.5 cm)** hoặc **15" (38.1 cm)**
 - **Material / Vật liệu:** HDPE (High-Density Polyethylene / Polyethylene mật độ cao)
 - **Pressure Rating / Áp suất:** DR11 = 200 PSI class
 - **Color / Màu:** Black (most common / phổ biến nhất)
@@ -30,19 +30,19 @@ Thông số kỹ thuật toàn diện về kích thước ống phóng và cấu
 ### Consumer Rack Configurations / Cấu Hình Giá Dân Dụng
 
 #### 6-Shot Rack / Giá 6 Phát
-- **Dimensions / Kích thước:** 18" L × 13" W × 5" H (45.7 × 33 × 12.7 cm)
+- **Dimensions / Kích thước:** **18" L × 13" W × 5" H (45.7 × 33 × 12.7 cm)**
 - **Weight / Trọng lượng:** ~16 lbs (7.3 kg) with tubes / kèm ống
 - **Tubes / Ống:** 6× DR11 12" tubes
 - **Layout / Bố trí:** Single row, straight / Một hàng thẳng
-- **Tube spacing / Khoảng cách ống:** ~3" (7.6 cm) center-to-center / tâm đến tâm
+- **Tube spacing / Khoảng cách ống:** **~3" (7.6 cm)** center-to-center / tâm đến tâm
 - **Use / Dùng cho:** Small backyard displays, testing / Trình diễn sân nhỏ, thử nghiệm
 
 #### 12-Shot Rack (Straight) / Giá 12 Phát (Thẳng)
-- **Dimensions / Kích thước:** ~36" L × 13" W × 5" H (91.4 × 33 × 12.7 cm)
+- **Dimensions / Kích thước:** **~36" L × 13" W × 5" H (91.4 × 33 × 12.7 cm)**
 - **Weight / Trọng lượng:** ~32 lbs (14.5 kg) with tubes / kèm ống
 - **Tubes / Ống:** 12× DR11 12" tubes
 - **Layout / Bố trí:** Single row, straight / Một hàng thẳng
-- **Tube spacing / Khoảng cách ống:** ~3" (7.6 cm) center-to-center / tâm đến tâm
+- **Tube spacing / Khoảng cách ống:** **~3" (7.6 cm)** center-to-center / tâm đến tâm
 - **Use / Dùng cho:** Standard consumer displays / Trình diễn dân dụng tiêu chuẩn
 
 #### 10-Shot Fan Rack
@@ -65,21 +65,21 @@ Thông số kỹ thuật toàn diện về kích thước ống phóng và cấu
 #### 24-Shot V-Rack / Giá 24 Phát Chữ V
 - **Layout / Bố trí:** 2 rows × 12 tubes / 2 hàng × 12 ống
 - **Pattern / Hình dạng:** V-shape (two rows angled outward) / Chữ V (hai hàng nghiêng ra ngoài)
-- **Outer angle / Góc nghiêng:** 15° off center (documented) / 15° lệch tâm (đã ghi chép)
-- **Footprint / Diện tích:** ~36" L × 26" W (91.4 × 66 cm)
+- **Outer angle / Góc nghiêng:** **15°** off center (documented) / 15° lệch tâm (đã ghi chép)
+- **Footprint / Diện tích:** **~36" L × 26" W (91.4 × 66 cm)**
 - **Use / Dùng cho:** Wide fan pattern / Mẫu quạt rộng
 
 #### 24-Shot W-Rack / Giá 24 Phát Chữ W
 - **Layout / Bố trí:** 3 rows (center + 2 outer) / 3 hàng (giữa + 2 bên)
 - **Pattern / Hình dạng:** W-shape (center straight, sides angled) / Chữ W (giữa thẳng, bên nghiêng)
-- **Outer angle / Góc nghiêng:** 15° off center / 15° lệch tâm
-- **Footprint / Diện tích:** ~36" L × 36" W (91.4 × 91.4 cm)
+- **Outer angle / Góc nghiêng:** **15°** off center / 15° lệch tâm
+- **Footprint / Diện tích:** **~36" L × 36" W (91.4 × 91.4 cm)**
 - **Use / Dùng cho:** Maximum spread pattern / Mẫu trải rộng tối đa
 
 #### 36-Shot W-Rack / Giá 36 Phát Chữ W
 - **Layout / Bố trí:** 3 rows × 12 tubes / 3 hàng × 12 ống
 - **Pattern / Hình dạng:** W-shape / Chữ W
-- **Footprint / Diện tích:** ~36" L × 45" W (91.4 × 114 cm)
+- **Footprint / Diện tích:** **~36" L × 45" W (91.4 × 114 cm)**
 - **Use / Dùng cho:** Large consumer finale / Finale lớn dân dụng
 
 ### Modular System (ARC)
@@ -95,31 +95,31 @@ Thông số kỹ thuật toàn diện về kích thước ống phóng và cấu
 ## Professional Display Mortars / Ống Phóng Trình Diễn Chuyên Nghiệp
 
 ### 3-Inch Display (DR17) / Trình Diễn 3 Inch (DR17)
-- **Inner Diameter / Đường kính trong:** 3.0" (7.6 cm)
-- **Outer Diameter / Đường kính ngoài:** 3.5" (8.9 cm)
-- **Length / Chiều dài:** 18"-20" (45.7-50.8 cm)
-- **Wall thickness / Độ dày thành:** ~0.25" (0.64 cm)
+- **Inner Diameter / Đường kính trong:** **3.0" (7.6 cm)**
+- **Outer Diameter / Đường kính ngoài:** **3.5" (8.9 cm)**
+- **Length / Chiều dài:** **18"-20" (45.7-50.8 cm)**
+- **Wall thickness / Độ dày thành:** **~0.25" (0.64 cm)**
 - **Material / Vật liệu:** HDPE DR17
 - **Rack limit / Giới hạn giá:** Maximum 15 tubes per unit (NFPA) / Tối đa 15 ống mỗi đơn vị
 
 ### 4-Inch Display (DR21) / Trình Diễn 4 Inch (DR21)
-- **Inner Diameter / Đường kính trong:** 4.0" (10.2 cm)
-- **Outer Diameter / Đường kính ngoài:** 4.5" (11.4 cm)
-- **Length / Chiều dài:** 24" (61 cm)
+- **Inner Diameter / Đường kính trong:** **4.0" (10.2 cm)**
+- **Outer Diameter / Đường kính ngoài:** **4.5" (11.4 cm)**
+- **Length / Chiều dài:** **24" (61 cm)**
 - **Material / Vật liệu:** HDPE DR21
 - **Rack limit / Giới hạn giá:** Maximum 12 tubes per unit (NFPA) / Tối đa 12 ống mỗi đơn vị
 
 ### 5-Inch Display (DR21) / Trình Diễn 5 Inch (DR21)
-- **Inner Diameter / Đường kính trong:** 5.0" (12.7 cm)
-- **Outer Diameter / Đường kính ngoài:** 5.5" (14.0 cm)
-- **Length / Chiều dài:** 28" (71.1 cm)
+- **Inner Diameter / Đường kính trong:** **5.0" (12.7 cm)**
+- **Outer Diameter / Đường kính ngoài:** **5.5" (14.0 cm)**
+- **Length / Chiều dài:** **28" (71.1 cm)**
 - **Material / Vật liệu:** HDPE DR21
 - **Rack limit / Giới hạn giá:** Maximum 10 tubes per unit (NFPA) / Tối đa 10 ống mỗi đơn vị
 
 ### 6-Inch Display (DR21) / Trình Diễn 6 Inch (DR21)
-- **Inner Diameter / Đường kính trong:** 6.0" (15.2 cm)
-- **Outer Diameter / Đường kính ngoài:** 6.5" (16.5 cm)
-- **Length / Chiều dài:** 33" (83.8 cm)
+- **Inner Diameter / Đường kính trong:** **6.0" (15.2 cm)**
+- **Outer Diameter / Đường kính ngoài:** **6.5" (16.5 cm)**
+- **Length / Chiều dài:** **33" (83.8 cm)**
 - **Material / Vật liệu:** HDPE DR21
 - **Rack limit / Giới hạn giá:** Maximum 10 tubes per unit (NFPA) / Tối đa 10 ống mỗi đơn vị
 
