@@ -1,4 +1,4 @@
-# Knowledge Wiki
+# My Wiki
 
 Personal knowledge base built with Obsidian + Quartz v4.
 

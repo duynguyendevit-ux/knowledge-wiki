@@ -6,8 +6,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Red Pill Wiki",
-    pageTitleSuffix: " | redpill.wiki",
+    pageTitle: "My Wiki",
+    pageTitleSuffix: " | My Wiki",
     enableSPA: false,
     enablePopovers: false,
     analytics: null,
