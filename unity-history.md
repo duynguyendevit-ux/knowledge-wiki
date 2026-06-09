@@ -242,13 +242,93 @@ date: 2026-06-09
 
 ---
 
+### March 2025 - Unity 6.3 LTS
+
+**First LTS Release của Unity 6:**
+- 2 years support (Standard users)
+- 3 years support (Enterprise & Industry users)
+- Production-verified với real games
+
+**Production Verified Games:**
+- Phasmophobia (Kinetic Games)
+- V Rising (Stunlock Studios)
+- Pokémon Sleep (The Pokémon Company)
+- Den of Wolves (10 Chambers)
+- MARVEL SNAP (Second Dinner)
+- Disco Elysium (ZA/UM)
+
+---
+
 ### Current (2026)
 
 **Latest Stable Releases:**
 - **Unity 6000.4.0f1** (Mainline) - March 18, 2026
-- **Unity 6000.3.12f1** (LTS)
-- **Unity 6000.0.71f1** (LTS)
+- **Unity 6000.3.12f1** (LTS) - Unity 6.3 LTS
+- **Unity 6000.0.71f1** (LTS) - Unity 6.0 LTS
 - **Unity 6000.5.0b1** (Beta) - March 26, 2026
+
+**Key Unity 6 Features:**
+
+**🤖 AI Tools:**
+- Unity Muse & Sentis (generative AI)
+- AI-powered asset creation
+- Streamlined workflows
+
+**🎮 Platform Toolkit (NEW):**
+- **Unified API** cho multi-platform
+- ONE codebase for all platforms
+- Supported: Android, iOS, Nintendo Switch, Switch 2, PS5, Xbox, Windows/Steam
+- Account management, save data, achievements
+- Editor-based testing (no build needed)
+
+**🚀 Performance Improvements:**
+- **GPU Resident Drawer:** Faster rendering of complex scenes
+- **Build times:** 50-67% faster (V Rising: 4h→2h, Den of Wolves: 90m→30m)
+- **Memory:** 97-99% reduction in TypeTree memory
+- **HTTP/2 & gRPC:** ~40% server load reduction, ~15-20% CPU reduction
+- **Shader build settings:** Drastically reduced compilation time
+
+**🎨 Graphics & Rendering:**
+- **HDRP improvements:** Better clouds, water, ray tracing
+- **URP optimizations:** Mobile & XR performance boost
+- **Shader Graph:** Custom lighting, terrain shaders (no coding!)
+- **Visual Effects Graph:** GPU instancing, better templates
+
+**🎲 2D Improvements:**
+- Multi-threaded animation
+- Box 2D v3 physics (enhanced determinism)
+- Sprite Atlas Analyzer
+- Render 3D as 2D with lighting
+
+**🖥️ UI Toolkit:**
+- Native SVG support
+- Custom shaders in Shader Graph
+- Post-processing effects (blur, tint, grayscale)
+- Testing framework
+
+**🌐 Multiplayer:**
+- Host migration (Netcode for Entities)
+- Unity Building Blocks (achievements, leaderboards)
+- Multiplayer templates (Third-person, FPS)
+
+**🎯 Stability & Quality:**
+- **30% decline** in regressions (last 2 years)
+- **22% decline** in user-reported issues
+- Lowest open backlog in 3 years
+- Production-verified approach
+
+**🔐 Unity Core Standards (NEW):**
+- Verified and signed packages
+- Secure ecosystem
+- Trusted third-party tools
+
+**Triết lý Unity 6:**
+> "Performance and Stability Above All Else"
+
+**Mục tiêu 2025:**
+- Year of Unity 6.x (incremental updates)
+- Focus on stability, not Unity 7
+- Smoothest upgrade path ever
 
 ---
 
