@@ -123,6 +123,23 @@ Thông số kỹ thuật toàn diện về kích thước ống phóng và cấu
 - **Material / Vật liệu:** HDPE DR21
 - **Rack limit / Giới hạn giá:** Maximum 10 tubes per unit (NFPA) / Tối đa 10 ống mỗi đơn vị
 
+### 8-Inch Display (DR21/Steel) / Trình Diễn 8 Inch (DR21/Thép)
+- **Inner Diameter / Đường kính trong:** **8.0" (20.3 cm)**
+- **Outer Diameter / Đường kính ngoài:** **8.625" (21.9 cm)** (HDPE) hoặc **8.625" (21.9 cm)** (Steel)
+- **Length / Chiều dài:** **36"-48" (91.4-122 cm)**
+- **Material / Vật liệu:** HDPE DR21 or Steel pipe / HDPE DR21 hoặc ống thép
+- **Wall thickness / Độ dày thành:** ~0.31" (HDPE) hoặc Schedule 40 steel
+- **Rack limit / Giới hạn giá:** Maximum 6 tubes per unit (NFPA) / Tối đa 6 ống mỗi đơn vị
+- **Common setup / Thiết lập phổ biến:** Singles buried in ground or sand drums / Đơn lẻ chôn đất hoặc thùng cát
+
+### 10-Inch Display (Steel) / Trình Diễn 10 Inch (Thép)
+- **Inner Diameter / Đường kính trong:** **10.0" (25.4 cm)**
+- **Outer Diameter / Đường kính ngoài:** **10.75" (27.3 cm)**
+- **Length / Chiều dài:** **48"-60" (122-152 cm)**
+- **Material / Vật liệu:** Steel pipe Schedule 40
+- **Setup / Thiết lập:** Isolated singles, heavily buried / Đơn lẻ cô lập, chôn sâu
+- **Use / Dùng cho:** Large finale shells / Đầu đạn finale lớn
+
 ## NFPA Rack Construction Standards / Tiêu Chuẩn Xây Dựng Giá NFPA
 
 ### Tube Separation Requirements / Yêu Cầu Khoảng Cách Ống
@@ -225,6 +242,18 @@ Center-to-center: 6.5" (16.5 cm)
 6-tube rack length: 6 × 6.5" = 39" (99 cm)
 ```
 
+### Large Display Racks (8 inch)
+```
+8" tube OD: 8.625" (21.9 cm)
+Min separation: 4.3" (10.9 cm) [greater of 2" or 4.3" (half diameter)]
+Center-to-center: 12.9" (32.8 cm)
+
+4-tube rack length: 4 × 12.9" = 51.6" (131 cm)
+6-tube rack length: 6 × 12.9" = 77.4" (197 cm)
+
+Note: 8" racks are rare due to size/weight. Most shows use singles buried in ground or sand drums.
+```
+
 ## Weight Reference
 
 ### Consumer Equipment
@@ -252,10 +281,11 @@ Center-to-center: 6.5" (16.5 cm)
 ### Professional Medium
 - **5" × 5-10 tubes:** Wood crate racks
 - **6" × 4-8 tubes:** Heavy wood/steel racks
+- **8" × 4-6 tubes:** Heavy steel racks (rare, usually custom-built)
 
 ### Professional Large
-- **7-8" singles:** Ground-buried or sand drums
-- **10"+ singles:** Isolated heavy mortars
+- **8" singles:** Ground-buried or sand drums (most common)
+- **10"+ singles:** Isolated heavy mortars, deeply buried
 
 ## Game Asset Guidelines
 
@@ -296,6 +326,9 @@ Center-to-center: 6.5" (16.5 cm)
 | Pro 3" bar<br/>Pro thanh 3" | 8 | 112 × 20 × 60 | 3" DR17 | 30-35 |
 | Pro 4" bar<br/>Pro thanh 4" | 6 | 99 × 25 × 70 | 4" DR21 | 35-40 |
 | Pro 5" crate<br/>Pro thùng 5" | 6-10 | Variable<br/>Thay đổi | 5" DR21 | 40-60 |
+| Pro 6" crate<br/>Pro thùng 6" | 4-8 | Variable<br/>Thay đổi | 6" DR21 | 50-80 |
+| Pro 8" rack<br/>Pro giá 8" | 4-6 | 131-197 × 35 × 110 | 8" DR21/Steel | 80-120 |
+| Pro 8" single<br/>Pro đơn 8" | 1 | Buried/Drum<br/>Chôn/Thùng | 8" DR21/Steel | 15-25 each |
 
 ---
 
